@@ -1,0 +1,12 @@
+<div class="logo-item">
+    <a href="https://www.bri.co.id/" target="_blank">
+        <img src="logo/bri.png" alt="BRI">
+        <p>Bank BRI</p>
+    </a>
+</div>
+<div class="logo-item">
+    <a href="https://www.detik.com/" target="_blank">
+        <img src="logo/detik.png" alt="Detik.com">
+        <p>Detik.com</p>
+    </a>
+</div>
